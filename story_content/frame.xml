@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00001100101" font="Open Sans" controllayout="npnxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="pxabnsnfns00001100101" font="Open Sans" controllayout="pxabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="npnxnanbsnfns00001100101" font="Open Sans" controllayout="npnxnanbsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
+    <layout name="pxabnsnfns00001100101" font="Open Sans" controllayout="pxabnsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
+    <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
+    <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
+    <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -21,7 +21,7 @@
           </option>
           <option name="sidebar_enabled" value="true">
             <options>
-              <option name="sidebarpos" value="left" />
+              <option name="sidebarpos" value="right" />
               <option name="closed" value="false" />
             </options>
           </option>
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -58,7 +58,12 @@
       <optiongroup name="controls">
         <options>
           <option name="volume" value="true" />
-          <option name="seekbar" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
           <option name="pauseplay" value="false" />
           <option name="replay" value="false" />
           <option name="search" value="false" />
@@ -195,7 +200,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns00001100101">
+    <colorscheme name="npnxnanbnsnfns00001100101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1112,7 +1117,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns00001100101">
+    <string_table name="npnxnanbnsnfns00001100101">
       <string id="three_image_items">items</string>
       <string id="three_image_viewed">viewed</string>
       <string id="three_image_of">of</string>
@@ -1215,27 +1220,23 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5lvpkksKZVQ" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6O7TF0go8O2" displaytext="אוטיזם" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5lvpkksKZVQ.6k6Lml60wZx" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6O7TF0go8O2" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6O7TF0go8O2.6Va1fMXVNKG" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.5cBg5xI5s3y" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.5Z0G7c02TK0" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6S3uedicGFw" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.5dGUVw0UCZm" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.5izaGCf6Ry7" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.66nrYe0kTP0" displaytext=" ליקוי בהתנהגויות תקשורתיות כולל:&#xA;קייימת יותר מתשובה אחת נכונה" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6fKulHD6wui" displaytext=" סימנים לליקוי בויסות חושי&#xA;קייימת יותר מתשובה אחת נכונה" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.63XJgEJqWwA" displaytext="לאיזה שני תחומים אנו מתייחסים באפיון אוטיזם?" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6QD7JI8CGbj" displaytext="קשיים בהבנה של יחסים חברתיים כוללים" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.5zNFbSfQ8tN" displaytext="מהי התנהגות חזרתית?" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6Qb9mz1mkmd" displaytext="משוב- לומדת מאפייני האוכלוסיה&#xA;באיזה מידה תרמה לך הלומדה מבחינה מקצועית ? " expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6ijV8KQS5kd" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6jYDV2NAv3Q" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6rcQrAJALlc" displaytext="פתיח" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6Va1fMXVNKG" displaytext="התנהגות ויחסים חברתיים" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.5Z0G7c02TK0" displaytext="התנהגות" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6jYDV2NAv3Q" displaytext="ויסות חושי" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.5cBg5xI5s3y" displaytext="סיכום התנהגות" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6S3uedicGFw" displaytext="יחסים חברתיים" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.5izaGCf6Ry7" displaytext="סרטון" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.5dGUVw0UCZm" displaytext="איתן" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.66nrYe0kTP0" displaytext="שאלה 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6fKulHD6wui" displaytext="שאלה 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.63XJgEJqWwA" displaytext="שאלה 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6QD7JI8CGbj" displaytext="שאלה 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.5zNFbSfQ8tN" displaytext="שאלה 5 " expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6Qb9mz1mkmd" displaytext="משוב- לומדת מאפייני האוכלוסיה באיזה מידה תרמה לך הלומדה מבחינה מקצועית ? " expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6ijV8KQS5kd" displaytext="דף סיכום" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
