@@ -21,7 +21,7 @@
           </option>
           <option name="sidebar_enabled" value="true">
             <options>
-              <option name="sidebarpos" value="left" />
+              <option name="sidebarpos" value="right" />
               <option name="closed" value="false" />
             </options>
           </option>
@@ -1118,94 +1118,94 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns00001100101">
-      <string id="acc_active">active</string>
-      <string id="acc_closed_captions">Closed captions.</string>
-      <string id="acc_definition">definition</string>
-      <string id="acc_finish">finish</string>
-      <string id="acc_locked">locked</string>
-      <string id="acc_next">next</string>
-      <string id="acc_pause">pause</string>
-      <string id="acc_play">play</string>
-      <string id="acc_previous">previous</string>
-      <string id="acc_replay">replay</string>
-      <string id="acc_resources">resources</string>
-      <string id="acc_search_input">search</string>
-      <string id="acc_skipnavigation">Back to top</string>
-      <string id="acc_submit">submit</string>
-      <string id="acc_submitall">submit all</string>
-      <string id="acc_visited">visited</string>
-      <string id="acc_volume">volume</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_viewed">viewed</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_item">item</string>
       <string id="accessible_text">Accessible text</string>
-      <string id="acctext_shortcut">Toggle accessible text</string>
-      <string id="action">Action</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="acc_active">active</string>
       <string id="alt_key">Alt</string>
-      <string id="bio">Bio</string>
       <string id="check_include">Check to include</string>
       <string id="clear">Clear and return to menu</string>
       <string id="close">Close</string>
-      <string id="closed_captions">Captions</string>
+      <string id="acc_closed_captions">Closed captions.</string>
       <string id="closed_captions_tip">Toggle captions</string>
-      <string id="closedcaptions_shortcut">Toggle closed captions</string>
       <string id="continue">Continue</string>
       <string id="continueresponsive">Continue</string>
       <string id="ctrl_key">Ctrl</string>
-      <string id="definition">Definition</string>
-      <string id="desktop_start">Start Course</string>
-      <string id="disabled_orientation">Please rotate your device</string>
       <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
       <string id="enter_key">Enter</string>
       <string id="exit">Exit</string>
       <string id="filter">Filter</string>
       <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
       <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="action">Action</string>
       <string id="keyboardshortcuts">Keyboard Shortcuts</string>
-      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
-      <string id="mobile_start">Start Course</string>
-      <string id="more_info">More info</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
       <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
       <string id="mute_tip">Mute</string>
       <string id="next">NEXT</string>
-      <string id="next_shortcut">Next slide</string>
+      <string id="acc_next">next</string>
       <string id="next_slide_tip">Next slide</string>
-      <string id="outline">Menu</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
       <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
       <string id="play_tip">Play</string>
-      <string id="playpause_shortcut">Play / pause</string>
+      <string id="send_an_email">Send an email</string>
       <string id="prev">PREV</string>
-      <string id="previous_shortcut">Previous slide</string>
+      <string id="acc_previous">previous</string>
       <string id="previous_slide_tip">Previous slide</string>
       <string id="question_list">Question List</string>
-      <string id="replay_shortcut">Replay slide</string>
       <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
       <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
       <string id="restart">Restart</string>
       <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
       <string id="search">Search...</string>
       <string id="search_in">Search in:</string>
       <string id="search_results">Search Results</string>
-      <string id="search_toggle">Search</string>
-      <string id="send_an_email">Send an email</string>
       <string id="settings_tip">Settings</string>
       <string id="shift_key">Shift</string>
-      <string id="shortcut">Shortcut</string>
-      <string id="shortcuthelp">List keyboard shortcuts</string>
-      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_skipnavigation">Back to top</string>
       <string id="slide_text_chk">Slide Text</string>
       <string id="spacebar_key">Space</string>
-      <string id="submit">SUBMIT</string>
-      <string id="submit_shortcut">Submit slide</string>
-      <string id="submit_tip">Submit</string>
       <string id="submitall">SUBMIT ALL</string>
-      <string id="terms">Terms</string>
-      <string id="three_image_item">item</string>
-      <string id="three_image_items">items</string>
-      <string id="three_image_of">of</string>
-      <string id="three_image_viewed">viewed</string>
-      <string id="togglezoom">Toggle zoom to fit</string>
-      <string id="transcript">Notes</string>
-      <string id="transcript_chk">Notes</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
       <string id="unmute_tip">Unmute</string>
-      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="acc_volume">volume</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1220,27 +1220,23 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5lvpkksKZVQ" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6O7TF0go8O2" displaytext="אוטיזם" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5lvpkksKZVQ.6k6Lml60wZx" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6O7TF0go8O2" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6O7TF0go8O2.6Va1fMXVNKG" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.5cBg5xI5s3y" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.5Z0G7c02TK0" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6S3uedicGFw" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.5dGUVw0UCZm" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.5izaGCf6Ry7" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.66nrYe0kTP0" displaytext=" ליקוי בהתנהגויות תקשורתיות כולל:&#xA;קייימת יותר מתשובה אחת נכונה" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6fKulHD6wui" displaytext=" סימנים לליקוי בויסות חושי&#xA;קייימת יותר מתשובה אחת נכונה" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.63XJgEJqWwA" displaytext="לאיזה שני תחומים אנו מתייחסים באפיון אוטיזם?" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6QD7JI8CGbj" displaytext="קשיים בהבנה של יחסים חברתיים כוללים" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.5zNFbSfQ8tN" displaytext="מהי התנהגות חזרתית?" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6Qb9mz1mkmd" displaytext="משוב- לומדת מאפייני האוכלוסיה&#xA;באיזה מידה תרמה לך הלומדה מבחינה מקצועית ? " expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6ijV8KQS5kd" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6O7TF0go8O2.6jYDV2NAv3Q" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6rcQrAJALlc" displaytext="פתיח" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6Va1fMXVNKG" displaytext="התנהגות ויחסים חברתיים" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.5Z0G7c02TK0" displaytext="התנהגות" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6jYDV2NAv3Q" displaytext="ויסות חושי" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.5cBg5xI5s3y" displaytext="סיכום התנהגות" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6S3uedicGFw" displaytext="יחסים חברתיים" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.5izaGCf6Ry7" displaytext="סרטון" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.5dGUVw0UCZm" displaytext="איתן" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.66nrYe0kTP0" displaytext="שאלה 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6fKulHD6wui" displaytext="שאלה 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.63XJgEJqWwA" displaytext="שאלה 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6QD7JI8CGbj" displaytext="שאלה 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.5zNFbSfQ8tN" displaytext="שאלה 5 " expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6Qb9mz1mkmd" displaytext="משוב- לומדת מאפייני האוכלוסיה באיזה מידה תרמה לך הלומדה מבחינה מקצועית ? " expand="false" type="slide" />
+            <slidelink slideid="_player.6O7TF0go8O2.6ijV8KQS5kd" displaytext="דף סיכום" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
